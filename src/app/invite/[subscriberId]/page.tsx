@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import { Ranking } from "./ranking";
-import logo from '../../assets/logo.svg';
+import logo from '../../../assets/logo.svg';
 import { Stats } from "./stats";
 import { InviteLinkInput } from "./invite-link-input";
 
